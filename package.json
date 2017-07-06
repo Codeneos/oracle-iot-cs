@@ -1,0 +1,22 @@
+{
+  "name": "oracle-iot-cs",
+  "version": "1.0.0",
+  "description": "Oracle IoT Cloud Service interface libraries that enable interfacing with the Oracle IoT Cloud. Includes methods for calling the Oracle IoT APIs for device management and device creation as well as methods to send messages to IoT cloud from an IoT device.",
+  "license" : "MIT",
+  "private": true,
+  "analyze": true,
+  "repository": "bitbucket:Neos/iotgateway",
+  "author": {
+    "name": "Peter van Gulik <p.w.van.guli@gmail.com> (http://www.alneos.com/)"
+  },
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "colors": "^1.1.2",
+    "dateformat": "^2.0.0",
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "node-forge": "^0.6.46",
+    "request": "^2.79.0",
+    "ursa-purejs": "0.0.3"
+  }
+}
