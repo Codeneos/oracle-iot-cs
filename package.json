@@ -5,7 +5,7 @@
   "license" : "MIT",
   "private": true,
   "analyze": true,
-  "repository": "bitbucket:Neos/iotgateway",
+  "repository": "Codeneos/oracle-iot-cs",
   "author": {
     "name": "Peter van Gulik <p.w.van.guli@gmail.com> (http://www.alneos.com/)"
   },
