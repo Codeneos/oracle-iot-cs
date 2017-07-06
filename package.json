@@ -14,13 +14,5 @@
     "lib/logger.js"
   ],
   "dependencies": {
-    "body-parser": "^1.15.2",
-    "colors": "^1.1.2",
-    "dateformat": "^2.0.0",
-    "express": "^4.14.0",
-    "morgan": "^1.7.0",
-    "node-forge": "^0.6.46",
-    "request": "^2.79.0",
-    "ursa-purejs": "0.0.3"
   }
 }
