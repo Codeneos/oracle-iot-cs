@@ -9,6 +9,12 @@
   "author": {
     "name": "Peter van Gulik <p.w.van.guli@gmail.com> (http://www.alneos.com/)"
   },
+  "main": "lib/iotcs.js",
+  "files": [
+    "lib/iotcs.js",
+    "lib/iotdevice.js",
+    "lib/logger.js"
+  ],
   "dependencies": {
     "body-parser": "^1.15.2",
     "colors": "^1.1.2",
